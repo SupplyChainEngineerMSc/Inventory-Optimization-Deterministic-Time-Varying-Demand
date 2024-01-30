@@ -19,8 +19,8 @@ Results, such as the comparison plot are published in the following research pap
 
 
 
-## Theoretical formulaes included in the deterministic inventory optimization
-# Wagner Whitin Algorithm (Dynamic Lot-Sizing Model)
+# Theoretical formulaes included in the deterministic inventory optimization
+## Wagner Whitin Algorithm (Dynamic Lot-Sizing Model)
 
 The Wagner Whitin algorithm is a dynamic lot-sizing model used in inventory management. It aims to determine the optimal production or order quantities over a planning horizon, considering variable demand and production costs. The algorithm minimizes the total costs associated with ordering and holding inventory.
 
@@ -37,7 +37,7 @@ The Wagner Whitin algorithm is a dynamic lot-sizing model used in inventory mana
 
 ---
 
-# Silver Meal Model
+## Silver Meal Model
 
 The Silver Meal model is a heuristic used for inventory management, particularly in production planning. It provides a simple approach to determine when to place orders or initiate production to minimize total costs.
 
@@ -53,7 +53,7 @@ The Silver Meal model is a heuristic used for inventory management, particularly
 
 ---
 
-# Economic Order Quantity (EOQ) Model
+## Economic Order Quantity (EOQ) Model
 
 The Economic Order Quantity (EOQ) model is a classical inventory management approach that determines the optimal order quantity to minimize total inventory costs. It assumes a constant demand rate and a known order cost.
 
@@ -68,6 +68,7 @@ The Economic Order Quantity (EOQ) model is a classical inventory management appr
 - Commonly applied in various industries to determine the most cost-effective order quantity for replenishing inventory.
 - Assumption of constant demand makes it suitable for products with relatively stable sales patterns.
 
+---
 
 Results, such as the comparison plot are published in the following research paper:
 - https://www.researchgate.net/publication/348607949_JOINT_EFFECT_OF_FORECASTING_AND_LOT-SIZING_METHOD_ON_COST_MINIMIZATION_OBJECTIVE_OF_A_MANUFACTURER_A_CASE_STUDY
