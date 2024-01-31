@@ -1,5 +1,5 @@
 # Inventory-Optimization-Deterministic-Time-Varying-Demand
-This Python repository applies the inventory optimization including:
+This Python repository applies inventory optimization for determining lot sizing with time-varying, deterministic demand, with lot-sizing methods including:
 - Wagner–Whitin (the Optimal Dynamic lot-size model)
 - Economic Order Quantity (EOQ)
 - Silver-Meal (SM).
